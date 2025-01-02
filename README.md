@@ -75,7 +75,7 @@ Feel free to use, modify, and share without restrictions.
 
 ## 🤝 **Contributing**  
 
-For now, the best way to contribute to Nox AI is by using it to spread love and positivity across social media and for personal use. Share your creations, your experiences, and inspire others to heal, create, and transform emotions. More ways to contribute are coming soon.
+For now, the best way to contribute to Nox AI is by using it to spread love and positivity across social media and for personal healing. Share your creations, your experiences, and inspire others to heal, create, and transform emotions. More ways to contribute are coming soon.
 
 ---
 
