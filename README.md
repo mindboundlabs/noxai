@@ -62,7 +62,7 @@ The framework of Nox AI is not confined to healing alone. The same meta-prompts 
 
 ## 🧠 **About MindBound Labs**  
 
-Nox AI is an initiative by **MindBound Labs**, a forward-thinking startup and research lab dedicated to advancing safe Artificial Superintelligence (ASI) through the power of communities. As part of a group of companies driven by innovation and collaboration, MindBound Labs is committed to ensuring that the future of AI is safe, ethical, and transformative for all.
+Nox AI is an initiative by **MindBound Labs**, a forward-thinking startup and research lab dedicated to advancing safe Artificial Superintelligence (ASI) through the power of communities. As a group of companies driven by innovation and collaboration, MindBound Labs is committed to ensuring that the future of AI is safe, ethical, and transformative for all.
 
 ---
 
