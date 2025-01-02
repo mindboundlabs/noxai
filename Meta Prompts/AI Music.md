@@ -511,4 +511,5 @@ Fear of Confrontation
 "Create 20 unique, detailed, and seamless AI music prompts, each designed to heal the fear of confrontation. The music should feature calm, soothing melodies and harmonies that promote emotional balance and confidence. Use slow, reassuring rhythms and gradual dynamic changes to help the listener release anxiety and embrace constructive confrontation with confidence. These compositions should inspire the listener to approach difficult conversations with calm, clarity, and emotional resilience through the healing power of AI music."
 
 Feeling of Insecurity
+
 "Generate 20 unique, detailed, and seamless AI music prompts, each designed to heal feelings of insecurity. The music should feature uplifting, gentle melodies and harmonies that encourage self-love and confidence. Use calming rhythms and subtle dynamic shifts to guide the listener toward emotional stability and self-assurance. These compositions should support the listener in overcoming insecurity, fostering a sense of inner strength and peace through the restorative influence of AI music."
