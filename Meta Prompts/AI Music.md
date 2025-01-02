@@ -1,4 +1,5 @@
 Stress and Anxiety
+
 "Generate 20 unique, detailed, and seamless AI music prompts, each designed to address and alleviate stress and anxiety. The music should provide comfort, clarity, and emotional relief, using soothing tones, rhythms, and harmonies that guide the listener through a process of healing. Incorporate variations in tempo, dynamics, and instrumentation to offer a transformative experience that helps reduce stress and ease anxiety. The compositions should evoke feelings of calmness and peace, offering emotional support and resolution through the power of AI music."
 
 Grief and Loss
